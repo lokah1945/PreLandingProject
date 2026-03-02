@@ -1,0 +1,28 @@
+{
+  "heroBadgeText": "Preview",
+  "heroStatusText": "Unlocking soon",
+  "heroTitleText": "One quick step",
+  "heroSubtitleVariants": [
+    "One quick step before you continue. This page serves as a brief transition layer designed to maintain a smooth, secure, and optimized browsing experience. Rather than sending visitors directly to the next destination, we use this short checkpoint to ensure stability, compatibility, and a consistent handoff across different devices and regions.",
+    "The page that follows may present additional information, features, or options delivered through one of our partner networks. Because availability can vary depending on geographic location, device configuration, and real-time conditions, the content you see on the next page may differ from what others experience. This helps ensure that only relevant and currently available options are displayed.",
+    "We prioritize clarity and performance. This page does not initiate downloads, request sensitive permissions, or run hidden processes in the background. It exists solely to provide a controlled and transparent transition before forwarding you to an external destination. Our goal is to keep the process lightweight while maintaining a premium browsing feel.",
+    "Please note that the upcoming page is managed independently by third-party partners. While we aim to collaborate with reputable providers, the presentation, offers, or informational materials shown there are determined by their own systems and policies. We encourage users to review any details carefully once redirected.",
+    "When you feel ready to proceed, simply select “Discover or Continue.” You will then be redirected to the next page where you can explore the available content or options based on your region and device. You remain in full control and may close the page at any time."
+  ],
+  "chipAText": "Instant load",
+  "chipBText": "Soft motion",
+  "chipCText": "Premium feel",
+
+  "ctaHintText": "Tap when ready to continue.",
+  "ctaMetaText": "Secure handoff",
+  "ctaSubReadyText": "Tap to continue",
+  "ctaSubLockedPrefixText": "Unlocking in",
+  "ctaFineprintText": "We may receive compensation from partner referrals. External content, availability, and presentation may vary by region and device.",
+
+  "loadingText": "Loading…",
+
+  "adLabelTop": "AdsTop",
+  "adLabelBottom": "AdsBottom",
+  "adLabelLeft": "AdsLeft",
+  "adLabelRight": "AdsRight"
+}

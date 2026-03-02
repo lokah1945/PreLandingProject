@@ -1,0 +1,40 @@
+{
+  "ctaTexts": [
+    "Read More",
+    "Continue",
+    "Open Now",
+    "Discover",
+    "View Details",
+    "See More",
+    "Learn More",
+    "Get Started",
+    "Explore Now"
+  ],
+  "delay": {
+    "min": 5,
+    "max": 10
+  },
+  "redirectUrls": [
+    "https://www.effectivegatecpm.com/purn11tmx?key=14ab7942a992b650f5aa02a46f4be2d0",
+    "https://www.effectivegatecpm.com/v25nr9g2be?key=9fa56edb79c1f9d4e6fcdc4f0e399a5e",
+    "https://omg10.com/4/10219567"
+  ],
+  "banners": {
+    "top": "",
+    "bottom": "",
+    "left": "",
+    "right": ""
+  },
+  "themes": {
+    "randomize": true,
+    "enabled": ["aurora", "sunset", "ocean", "neon", "candy", "mono"]
+  },
+  "backgrounds": {
+    "mode": "auto",
+    "useStaticImages": true,
+    "publicDir": "backgrounds",
+    "preferPrefix": "bg",
+    "allowedExtensions": ["jpg", "jpeg", "png", "webp", "avif", "gif"]
+  }
+}
+
